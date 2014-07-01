@@ -1,0 +1,27 @@
+{
+  "name": "passport-pg",
+  "version": "0.1.0",
+  "description": "PostreSQL authentication for Passport",
+  "main": "index.js",
+  "dependencies": {
+    "passport": "^0.2.0",
+    "passport-local": "^1.0.0",
+    "pg": "^3.3.0",
+    "pg-escape": "0.0.3"
+  },
+  "devDependencies": {
+    "express": "^3.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/algotronic/passport-pg.git"
+  },
+  "keywords": [
+    "postgresql"
+  ],
+  "author": "Łukasz Tomaszkiewicz <tomaszkiewicz@algotronic.pl>",
+  "license": "BSD-3"
+}
