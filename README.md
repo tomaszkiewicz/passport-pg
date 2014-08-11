@@ -56,7 +56,7 @@ http.createServer(app).listen(app.get('port'), function(){
 
 ## Version
 
-0.1.0
+0.1.1
 
 ## License
 
@@ -68,4 +68,5 @@ Not yet available
 
 ## Release History
 
+* 0.1.1 Added cache of user object
 * 0.1.0 Initial release
